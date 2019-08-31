@@ -1,0 +1,30 @@
+PODS:
+  - Kingfisher (5.7.1)
+  - OHHTTPStubs/Core (8.0.0)
+  - OHHTTPStubs/Default (8.0.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (8.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (8.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (8.0.0)
+  - OHHTTPStubs/Swift (8.0.0):
+    - OHHTTPStubs/Default
+  - SwiftLint (0.34.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - OHHTTPStubs/Swift
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  Kingfisher: 176d377ad339113c99ad4980cbae687f807e20fe
+  OHHTTPStubs: 9cbce6364bec557cc3439aa6bb7514670d780881
+  SwiftLint: 79d48a17c6565dc286c37efb8322c7b450f95c67
+
+PODFILE CHECKSUM: 19b94150edb4d86c25dcfe7dd44550e7adef0c09
+
+COCOAPODS: 1.4.0
