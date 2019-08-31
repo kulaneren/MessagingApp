@@ -73,6 +73,9 @@
 		B0DACA4E231ADCB600DB4F6E /* LoginViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewControllerTests.swift; sourceTree = "<group>"; };
 		B0DACA50231AE43100DB4F6E /* MessagesViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesViewControllerTests.swift; sourceTree = "<group>"; };
 		B0DACA53231AE67200DB4F6E /* APIClientFake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIClientFake.swift; sourceTree = "<group>"; };
+		B0DACA55231AFCC200DB4F6E /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		B0DACA56231AFD5700DB4F6E /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		B0DACA57231AFE8900DB4F6E /* .slather.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .slather.yml; sourceTree = "<group>"; };
 		C2D25F666FA604C9EC8E400A /* Pods-MessagingApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MessagingApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MessagingApp/Pods-MessagingApp.debug.xcconfig"; sourceTree = "<group>"; };
 		E287883EB309775D98189E80 /* Pods_MessagingAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MessagingAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -120,6 +123,9 @@
 		B0606820231AB07700E1FBCF = {
 			isa = PBXGroup;
 			children = (
+				B0DACA57231AFE8900DB4F6E /* .slather.yml */,
+				B0DACA56231AFD5700DB4F6E /* Gemfile */,
+				B0DACA55231AFCC200DB4F6E /* .travis.yml */,
 				B060685D231ABD8700E1FBCF /* .swiftlint.yml */,
 				B060682B231AB07800E1FBCF /* MessagingApp */,
 				B0606840231AB07900E1FBCF /* MessagingAppTests */,

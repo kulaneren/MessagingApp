@@ -1,0 +1,6 @@
+ci_service: travis_ci
+coverage_service: coveralls
+workspace: MessagingApp.xcworkspace
+xcodeproj: MessagingApp.xcodeproj
+scheme: MessagingApp
+source_directory: MessagingApp/
